@@ -1,0 +1,10 @@
+[postgresql]
+host=
+port=
+user=
+password=
+db=
+
+[logo]
+path=
+filename=
